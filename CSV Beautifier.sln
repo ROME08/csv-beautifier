@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV Beautifier", "CSV Beautifier.csproj", "{FCE5E0B8-C9D7-15A4-64ED-08D65F31222C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE5E0B8-C9D7-15A4-64ED-08D65F31222C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE5E0B8-C9D7-15A4-64ED-08D65F31222C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE5E0B8-C9D7-15A4-64ED-08D65F31222C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE5E0B8-C9D7-15A4-64ED-08D65F31222C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BBB759-A06E-4853-AAFF-EB83CD17015E}
+	EndGlobalSection
+EndGlobal

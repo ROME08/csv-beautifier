@@ -1,0 +1,28 @@
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\appsettings.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.staticwebassets.runtime.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.exe
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.deps.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.runtimeconfig.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.dll
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\bin\Debug\net8.0\CSV Beautifier.pdb
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.AssemblyInfoInputs.cache
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.AssemblyInfo.cs
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.csproj.CoreCompileInputs.cache
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.RazorAssemblyInfo.cache
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.RazorAssemblyInfo.cs
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets\msbuild.CSV Beautifier.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets\msbuild.build.CSV Beautifier.props
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CSV Beautifier.props
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CSV Beautifier.props
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\scopedcss\bundle\CSV Beautifier.styles.css
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.dll
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\refint\CSV Beautifier.dll
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.pdb
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\CSV Beautifier.genruntimeconfig.cache
+C:\Users\romer\OneDrive\Documents\Projects for Portfolio\CSV Beautifier\obj\Debug\net8.0\ref\CSV Beautifier.dll
